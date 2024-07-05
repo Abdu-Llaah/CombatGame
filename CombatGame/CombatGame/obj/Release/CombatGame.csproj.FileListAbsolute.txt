@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\CombatGame\CombatGame\bin\Release\CombatGame.exe.config
+C:\Users\HP\source\repos\CombatGame\CombatGame\bin\Release\CombatGame.exe
+C:\Users\HP\source\repos\CombatGame\CombatGame\bin\Release\CombatGame.pdb
+C:\Users\HP\source\repos\CombatGame\CombatGame\obj\Release\CombatGame.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CombatGame\CombatGame\obj\Release\CombatGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CombatGame\CombatGame\obj\Release\CombatGame.exe
+C:\Users\HP\source\repos\CombatGame\CombatGame\obj\Release\CombatGame.pdb
